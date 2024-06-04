@@ -1,0 +1,7 @@
+- 👋 Hi, I’m IshanToshniwal
+- 👀 I’m interested in python
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on git
+- 📫 How to reach me in git
+- 😄 Pronouns: great, drawing, git, python, java
+- ⚡ Fun fact: pluto is the smallest planet
